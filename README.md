@@ -14,12 +14,13 @@ An interactive **Power BI dashboard** built using **Orders.csv** and **Details.c
 
 ### Details.csv Sample
 
-<img width="805" height="689" alt="image" src="https://github.com/user-attachments/assets/d21fe2e7-9783-4e52-aec9-569c743b29b0" />
+<img width="685" height="442" alt="image" src="https://github.com/user-attachments/assets/46a6e9c0-7722-41cc-8bcd-c3d08e37b51e" />
 
 
 ### Orders.csv Sample
 
-<img width="824" height="696" alt="image" src="https://github.com/user-attachments/assets/8b35f6a0-6858-44b0-a63d-77fde22c7383" />
+<img width="661" height="442" alt="image" src="https://github.com/user-attachments/assets/993937c7-966b-4b9c-a8a0-ca79052a2ded" />
+
 
 
 ---
